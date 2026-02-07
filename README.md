@@ -30,5 +30,11 @@ Computer Science undergraduate at Wright State University 👨‍💻<br>Passion
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nitin-kamboj&icon=0&color=0)](https://visitcount.itsvg.in)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitin-kamboj&show_icons=true&theme=shadow_green)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Nitin-kamboj&theme=shadow_green)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitin-kamboj&layout=compact&theme=shadow_green)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
